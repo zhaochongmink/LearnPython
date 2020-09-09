@@ -55,6 +55,17 @@
 ### python_csv.py: Python中CSV文件的简单读写  
 
 ### python_numpy.py: 使用numpy进行矩阵操作
+
+### python_mail.py: 使用Python自动发送邮件，包括发送HTML以及图片、附件等
+
+### python_redis.py: Python操作Redis实现消息的发布与订阅
+
+### python_schedule.py: Python进行调度开发
+
+### python_socket.py: Python的socket开发实例
+
+### Plotly目录: 一些plotly画图的实例，使用jupyter notebook编写
+
 ===================================================================================================
 
 ### 您可以fork该项目, 并在修改后提交Pull request, 看到后会尽量进行代码合并
